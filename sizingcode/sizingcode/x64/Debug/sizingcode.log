@@ -1,0 +1,40 @@
+﻿  sizingcode.cpp
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(11,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(16,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(18,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(19,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(23,103): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(24,125): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(25,129): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(92,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(96,94): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(98,94): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(102,64): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(104,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(105,93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(106,83): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(108,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(109,93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(110,83): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(112,69): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(238,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\sizingcode.cpp(70,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\sizingcode.cpp(74,138): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(115): warning C4715: 'constraint': not all control paths return a value
+  sizingcode.vcxproj -> C:\Users\track\source\repos\sizingcode\x64\Debug\sizingcode.exe
