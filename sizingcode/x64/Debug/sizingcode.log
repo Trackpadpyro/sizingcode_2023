@@ -1,0 +1,54 @@
+﻿  sizingcode.cpp
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(11,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(16,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(18,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(23,118): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(24,133): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(25,136): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(92,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(96,94): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(98,94): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(102,64): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(104,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(105,103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(106,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(107,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(110,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(111,103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(112,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(113,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(116,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(84,15): warning C4101: 'kt': unreferenced local variable
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(84,11): warning C4101: 'ka': unreferenced local variable
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(259,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(427,100): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(428,100): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\sizingcode.cpp(57,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\track\source\repos\sizingcode\sizingcode\sizingcode.cpp(58,109): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(123): warning C4715: 'constraint': not all control paths return a value
+C:\Users\track\source\repos\sizingcode\sizingcode\Header.h(257): warning C4715: 'Parameter_Set::score': not all control paths return a value
+  sizingcode.vcxproj -> C:\Users\track\source\repos\sizingcode\x64\Debug\sizingcode.exe
